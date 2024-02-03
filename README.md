@@ -28,7 +28,7 @@ Di sini, angka-angka di atas mewakili nilai supply, demand, dan biaya transporta
 
 3. Output:
 - Hasil dari pengerjaan matriks TP dengan metode TMSM akan di-return kembali ke program GUI.
-- Contoh hasilnya adalah sebagai berikut:
+- Contoh cuplikan hasilnya adalah sebagai berikut:
 ```
 32 [0]	60 [30]	200 [0]	| 30	Total alloc : 30	Status = SATISFY
 40 [20]	68 [0]	80 [15]	| 35	Total alloc : 35	Status = SATISFY
@@ -38,5 +38,4 @@ Total Alokasi tabel adalah: 5600
 ```
 Penjelasan:
 - Angka di dalam kurung siku menunjukkan alokasi barang dari supply ke demand.
-- Status “SATISFY” menandakan bahwa solusi memenuhi semua persyaratan supply dan demand.
-- Total alokasi tabel adalah 5600.
+- Status "SATISFY" menandakan bahwa solusi memenuhi semua persyaratan supply dan demand.
